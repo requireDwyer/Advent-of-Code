@@ -69,8 +69,6 @@ def crate_mover_9001(file):
         return "".join(output)
 
 
-print(crate_mover_9000("sample.txt"))
 print(crate_mover_9000("day5.txt"))
 
-print(crate_mover_9001("sample.txt"))
 print(crate_mover_9001("day5.txt"))
